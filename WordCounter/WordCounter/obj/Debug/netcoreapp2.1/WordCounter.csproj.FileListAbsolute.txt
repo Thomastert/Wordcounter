@@ -1,0 +1,11 @@
+D:\c#practis\rapidfire\StringWordCounter\WordCounter\WordCounter\bin\Debug\netcoreapp2.1\WordCounter.deps.json
+D:\c#practis\rapidfire\StringWordCounter\WordCounter\WordCounter\bin\Debug\netcoreapp2.1\WordCounter.runtimeconfig.json
+D:\c#practis\rapidfire\StringWordCounter\WordCounter\WordCounter\bin\Debug\netcoreapp2.1\WordCounter.runtimeconfig.dev.json
+D:\c#practis\rapidfire\StringWordCounter\WordCounter\WordCounter\bin\Debug\netcoreapp2.1\WordCounter.dll
+D:\c#practis\rapidfire\StringWordCounter\WordCounter\WordCounter\bin\Debug\netcoreapp2.1\WordCounter.pdb
+D:\c#practis\rapidfire\StringWordCounter\WordCounter\WordCounter\obj\Debug\netcoreapp2.1\WordCounter.csprojAssemblyReference.cache
+D:\c#practis\rapidfire\StringWordCounter\WordCounter\WordCounter\obj\Debug\netcoreapp2.1\WordCounter.csproj.CoreCompileInputs.cache
+D:\c#practis\rapidfire\StringWordCounter\WordCounter\WordCounter\obj\Debug\netcoreapp2.1\WordCounter.AssemblyInfoInputs.cache
+D:\c#practis\rapidfire\StringWordCounter\WordCounter\WordCounter\obj\Debug\netcoreapp2.1\WordCounter.AssemblyInfo.cs
+D:\c#practis\rapidfire\StringWordCounter\WordCounter\WordCounter\obj\Debug\netcoreapp2.1\WordCounter.dll
+D:\c#practis\rapidfire\StringWordCounter\WordCounter\WordCounter\obj\Debug\netcoreapp2.1\WordCounter.pdb
